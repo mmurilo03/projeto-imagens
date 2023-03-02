@@ -1,1 +1,3 @@
 # projeto-imagens
+## Projeto feito no ensino médio integrado em infomática no IFPB Campus Cajazeiras
+### Um pequeno projeto feito em python com o intuito de integrar com as disciplinas de POO e banco de dados usando as bibliotecas tkinter para interface gráfica e psycopg2 para conectar com o banco de dados PostegreSQL. A ideia do projeto é criar algo como o Google Drive para salvar arquivos, o programa recebe o endereço do arquivo e o nome do arquivo na sua máquina e faz uma cópia para a pasta "Imagens" do programa. O banco de dados tem duas tabelas, uma para o usuário que guarda o nome e senha e a outra para as imagens, que salva o nome da imagem e o usuário que salvou.
